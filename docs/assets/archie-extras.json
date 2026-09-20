@@ -1,0 +1,57 @@
+{
+  "image": "archie-extras.webp",
+  "columns": 6,
+  "rows": 4,
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "animations": {
+    "skateboard": {
+      "row": 0,
+      "frameCount": 6,
+      "durations": [
+        180,
+        140,
+        140,
+        140,
+        140,
+        220
+      ]
+    },
+    "sunglasses": {
+      "row": 1,
+      "frameCount": 6,
+      "durations": [
+        300,
+        160,
+        160,
+        160,
+        220,
+        280
+      ]
+    },
+    "hearts": {
+      "row": 2,
+      "frameCount": 6,
+      "durations": [
+        240,
+        160,
+        220,
+        160,
+        160,
+        240
+      ]
+    },
+    "thinking": {
+      "row": 3,
+      "frameCount": 6,
+      "durations": [
+        340,
+        230,
+        230,
+        230,
+        180,
+        340
+      ]
+    }
+  }
+}
